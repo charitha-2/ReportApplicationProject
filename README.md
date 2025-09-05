@@ -19,8 +19,11 @@ The application supports exporting data in **Excel and PDF** formats.
 - 📉 Pagination support (example shown in UI)  
 - 📤 Export reports to:
   - **Excel (.xlsx)**  
-  - **PDF (.pdf)**  
+  - **PDF (.pdf)**   
 - 🎨 Simple responsive UI using **JSP + CSS**
+
+![image_alt](https://github.com/charitha-2/ReportApplicationProject/blob/f2bafd769a8aa70f1f0b75529c8c23b3325c75d4/Screenshot%202025-09-05%20194254.png)
+ 
 
 ---
 
