@@ -1,4 +1,5 @@
  <h1 align="center">📊 Report Application</h1> 
+ ![image Alt](https://github.com/charitha-2/ReportApplicationProject/blob/9036cbee21e2af440717f866c6b0693761159e81/Screenshot%202025-09-05%20190218.png)
  <h2> Project Overview</h2>
 
 A **Spring Boot mini-project** that allows users to search, filter, and export reports based on different parameters such as **Plan Name, Status, Gender, Date Range, etc.**  
